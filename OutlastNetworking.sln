@@ -7,8 +7,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OutlastNetworking", "Outlas
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OutlastNetworkingClient", "OutlastNetworkingClient\OutlastNetworkingClient.vcxproj", "{7235C4AC-A462-4AA3-A070-7D8B102862BD}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Outlast Networking DLLL", "Outlast Networking DLLL\Outlast Networking DLLL.vcxproj", "{C39E5A0B-1C2A-4FD4-A07C-4AB61A546C9F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -33,14 +31,6 @@ Global
 		{7235C4AC-A462-4AA3-A070-7D8B102862BD}.Release|x64.Build.0 = Release|x64
 		{7235C4AC-A462-4AA3-A070-7D8B102862BD}.Release|x86.ActiveCfg = Release|Win32
 		{7235C4AC-A462-4AA3-A070-7D8B102862BD}.Release|x86.Build.0 = Release|Win32
-		{C39E5A0B-1C2A-4FD4-A07C-4AB61A546C9F}.Debug|x64.ActiveCfg = Debug|x64
-		{C39E5A0B-1C2A-4FD4-A07C-4AB61A546C9F}.Debug|x64.Build.0 = Debug|x64
-		{C39E5A0B-1C2A-4FD4-A07C-4AB61A546C9F}.Debug|x86.ActiveCfg = Debug|Win32
-		{C39E5A0B-1C2A-4FD4-A07C-4AB61A546C9F}.Debug|x86.Build.0 = Debug|Win32
-		{C39E5A0B-1C2A-4FD4-A07C-4AB61A546C9F}.Release|x64.ActiveCfg = Release|x64
-		{C39E5A0B-1C2A-4FD4-A07C-4AB61A546C9F}.Release|x64.Build.0 = Release|x64
-		{C39E5A0B-1C2A-4FD4-A07C-4AB61A546C9F}.Release|x86.ActiveCfg = Release|Win32
-		{C39E5A0B-1C2A-4FD4-A07C-4AB61A546C9F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
